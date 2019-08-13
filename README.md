@@ -20,6 +20,8 @@ Simply put, Soferox is a decentralized network such as Ethereum, Bitcoin, NEM, o
 
 Soferox is indeed a cryptrocurrency and our Coin is called SFX. To send SFX from one account to another usually takes 1-10 seconds. After being mined successfully in about 2 minutes the transaction will be seen as immutable in the transaction chain.
 
+The idea behind this is based off of elements from traditional banking and from blockchain tech we see today.
+
 Upcoming Features
 -----------------
 * Dual Chain wallets allowing the use of traditional crypto for those who want it, and new age for those ready
