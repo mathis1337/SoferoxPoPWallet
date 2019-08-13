@@ -10,6 +10,7 @@ What is not in this initial commit?
 * The blockchain and consensus protocols have been left out
 * The PoP to GRS Wallet Connectors have been left out.
 * C# Contract Publishing
+* Main SDK Components 
 
 This commit is purely to evaluate the asthetics and to determine if the flow of the wallet will suffice.
 
