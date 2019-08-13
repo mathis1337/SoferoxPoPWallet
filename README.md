@@ -1,5 +1,4 @@
 # Soferox PoP Wallet integration/staging tree
------------------
 
 Copyright (c) 2014-2018 The Soferox Core Developers
 
