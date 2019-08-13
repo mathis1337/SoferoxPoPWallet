@@ -7,9 +7,9 @@ What is currently released?
 As of now this initial commit is just of the initial wallet attributes.
 
 What is not in this initial commit?
-*The blockchain and consensus protocols have been left out
-*The PoP to GRS Wallet Connectors have been left out.
-*C# Contract Publishing
+* The blockchain and consensus protocols have been left out
+* The PoP to GRS Wallet Connectors have been left out.
+* C# Contract Publishing
 
 This commit is purely to evaluate the asthetics and to determine if the flow of the wallet will suffice.
 
@@ -22,9 +22,9 @@ Soferox is indeed a cryptrocurrency and our Coin is called SFX. To send SFX from
 
 Upcoming Features
 -----------------
-*Dual Chain wallets allowing the use of traditional crypto for those who want it, and new age for those ready
-*PoP Consensus Algo
-*C# Contract Publishing
-*All C# built wallet in VS. Making debugging and open source work SO much easier
-*Can be used with traditional chain effortless
-*Large support langauge of C#
+* Dual Chain wallets allowing the use of traditional crypto for those who want it, and new age for those ready
+* PoP Consensus Algo
+* C# Contract Publishing
+* All C# built wallet in VS. Making debugging and open source work SO much easier
+* Can be used with traditional chain effortless
+* Large support langauge of C#
